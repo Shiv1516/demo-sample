@@ -499,18 +499,7 @@ table {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.lc1 {
-  -webkit-line-clamp: 1;
-}
-.lc2 {
-  -webkit-line-clamp: 2;
-}
-.lc3 {
-  -webkit-line-clamp: 3;
-}
-.lc4 {
-  -webkit-line-clamp: 4;
-}
+
 /* Position Style */
 .pr,
 .navbar li {
@@ -1085,9 +1074,9 @@ table {
 .nav-close .menu-line:nth-of-type(2) {
   display: none;
 }
-.hero {
+/* .hero {
   height: 100vh;
-}
+} */
 .holidays-cards:hover .holiday-imgs {
   transform: scale(1.15);
 }
