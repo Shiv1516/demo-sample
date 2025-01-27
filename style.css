@@ -1128,3 +1128,10 @@ table {
     display: block;
   }
 }
+@media only screen and (max-width: 541px) {
+  .service-card,
+  .holiday-card {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
